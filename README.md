@@ -2,7 +2,7 @@
 
 Here we will Implementing ASP.NET Core CRUD Operation with CQRS and MediatR Patterns.
 
-Read the entire article here - https://www.hosting.work/aspnet-core-microservices-asynchronous-communication-rabbitmq-masstransit/
+Read the entire article here - https://www.hosting.work/cqrs-mediatr-aspnet-core/
 
 # Tutorial Contents
 1. What is CQRS Pattern
